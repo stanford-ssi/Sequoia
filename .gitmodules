@@ -1,15 +1,15 @@
-[submodule "systems"]
-	path = systems
+[submodule "sequoia-systems"]
+	path = sequoia-systems
 	url = https://github.com/stanford-ssi/sequoia-systems.git
-[submodule "gnc"]
-	path = gnc
+[submodule "sequoia-gnc"]
+	path = sequoia-gnc
 	url = https://github.com/stanford-ssi/sequoia-gnc.git
-[submodule "avionics"]
-	path = avionics
+[submodule "sequoia-avionics"]
+	path = sequoia-avionics
 	url = https://github.com/stanford-ssi/sequoia-avionics.git
-[submodule "structures"]
-	path = structures
+[submodule "sequoia-structures"]
+	path = sequoia-structures
 	url = https://github.com/stanford-ssi/sequoia-structures.git
-[submodule "software"]
-	path = software
+[submodule "sequoia-software"]
+	path = sequoia-software
 	url = https://github.com/stanford-ssi/sequoia-software.git
