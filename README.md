@@ -12,4 +12,14 @@ Next, make a new branch for yourself:
 ```
 $: git checkout -b <YOUR_NAME>
 ```
-Now, let's get to editing!
+Now, let's get to editing! 
+
+Update all of the submodules with code from github:
+```
+$: git submodule update --remote --merge
+```
+
+Push to your branch
+```
+$: git push --recurse-submodules=on-demand
+```
