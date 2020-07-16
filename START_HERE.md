@@ -22,3 +22,6 @@ Push to your branch
 ```
 $: git push --recurse-submodules=on-demand
 ```
+
+### Useful Documentation
+[Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
