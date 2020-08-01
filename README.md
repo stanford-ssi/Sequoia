@@ -1,7 +1,5 @@
 # Sequoia — an open source, 3U Imaging CubeSat
-## Welcome! 
-
-### **Joining the sats team, or new to GitHub?** [Start here.](START_HERE.md)
+### Welcome! **Joining the sats team, or new to GitHub?** [Start here.](START_HERE.md)
 
 ### **Interested in learning about the history of the sats team?** Checkout our [webpage.](https://ssi.stanford.edu/teams/satellites)
 
