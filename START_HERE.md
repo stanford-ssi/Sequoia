@@ -23,5 +23,7 @@ Push to your branch
 $: git push --recurse-submodules=on-demand
 ```
 
+## Ready to move on? Let's do some tutorials! [Tutorial #1](welcome-to-sats!/tutorial-1.md)
+
 ### Useful Documentation
 [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
