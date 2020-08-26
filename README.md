@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/1u-structural-model.jpeg" width="900" height="600"><br>
+  <img src="imgs/1u-structural-model.jpeg" width="900"><br>
   <b> <a href="https://github.com/jbaileyiii">@jbaileyiii</a> holds a 1U structural model. PC: <a href="https://github.com/polygnomial">@polygnomial</a> </b><br>
   <br><br>
 </p>
