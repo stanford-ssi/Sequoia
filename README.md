@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="imgs/1u-structural-model.jpeg" width="900">
+  <b> <a href="https://github.com/jbaileyiii">@jbaileyiii</a> holds a 1U structural model. PC: <a href="https://github.com/polygnomial">@polygnomial</a> </b><br>
+  <br><br>
+</p>
+
 # Sequoia — an open source, 3U Imaging CubeSat
 Sequoia is our current 3U CubeSat that will demonstrate on-board image classification and processing with updateable machine learning models. The goal of the project is to obtain open-source imagery and prove autonomous orbit determination. We will actively retrain Sequoia’s deep learning models using a three camera set-up. Our mission architecture is software-defined via image locations, types, and resolutions—Sequoia returns quality imagery. We are actively collaborating with IBM Space Tech. Please contact us about potential launch opportunities.
 
