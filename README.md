@@ -6,3 +6,10 @@
 ### **Part of SSI?** Check out our [GitHub Project Board.](https://github.com/orgs/stanford-ssi/projects/2) (TODO: update link, fine at the moment)
 
 ### **Want to chat?** Send an email to [Flynn](mailto:flynnd@stanford.edu) or [Grant](mailto:gregen@stanford.edu).
+
+# Check out subsystem repositories here:
+
+[Avionics](https://github.com/stanford-ssi/sequoia-avionics)
+[Software](https://github.com/stanford-ssi/sequoia-software)
+[GNC](https://github.com/stanford-ssi/sequoia-gnc)
+[Structures](https://github.com/stanford-ssi/sequoia-structures)
