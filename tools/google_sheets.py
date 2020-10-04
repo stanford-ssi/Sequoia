@@ -62,7 +62,6 @@ class GoogleSheet:
                     continue
 
                 else:
-                    print(row)
                     row_dictionary = {}
                     for i, elem in enumerate(row):
                         row_dictionary[titles[i]] = elem
