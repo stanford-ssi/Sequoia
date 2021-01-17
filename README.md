@@ -16,7 +16,7 @@ Welcome! **Joining the Sats team, or new to GitHub?** [Start here.](START_HERE.m
 
 **Part of SSI?** Check out our [GitHub Project Board.](https://github.com/orgs/stanford-ssi/projects/2)
 
-**Want to chat?** Send an email to <a href="mailto:flynnd@stanford.edu, gregen@stanford.edu">Flynn and Grant</a>
+**Want to chat?** Send an email to team leads <a href="mailto:akasha@stanford.edu, ianchang@stanford.edu">Akasha and Ian</a>
 
 # Subsystem Repositories
 
