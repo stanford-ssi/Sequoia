@@ -20,13 +20,14 @@ Welcome! **Joining the Sats team, or new to GitHub?** [Start here.](START_HERE.m
 
 # Subsystem Repositories
 
-**[Avionics](https://github.com/stanford-ssi/sequoia-avionics)** (currently private)
+**[Avionics](https://github.com/stanford-ssi/sequoia-avionics)** (private)
 
 **[Software](https://github.com/stanford-ssi/sequoia-software)**
 
-**[GNC](https://github.com/stanford-ssi/sequoia-gnc)**
+- **[GNC](https://github.com/stanford-ssi/sequoia-gnc)**
+- **[Simulations](https://github.com/stanford-ssi/sequoia-simulations)** (private)
 
-**[Structures](https://github.com/stanford-ssi/sequoia-structures)** (currently private)
+**[Structures](https://github.com/stanford-ssi/sequoia-structures)** (private)
 
 <p align="center">
   <img src="imgs/tree.jpeg" width="900"><br>
