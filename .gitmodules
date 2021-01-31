@@ -1,0 +1,12 @@
+[submodule "structures"]
+	path = structures
+	url = https://github.com/stanford-ssi/sequoia-structures.git
+	branch = main
+[submodule "avionics"]
+	path = avionics
+	url = https://github.com/stanford-ssi/sequoia-avionics.git
+	branch = master
+[submodule "software"]
+	path = software
+	url = https://github.com/stanford-ssi/sequoia-software.git
+	branch = main
