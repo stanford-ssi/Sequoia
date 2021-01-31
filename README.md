@@ -24,8 +24,7 @@ Welcome! **Joining the Sats team, or new to GitHub?** [Start here.](START_HERE.m
 
 **[Software](https://github.com/stanford-ssi/sequoia-software)**
 
-- **[GNC](https://github.com/stanford-ssi/sequoia-gnc)**
-- **[Simulations](https://github.com/stanford-ssi/sequoia-simulation)** (private)
+- **[Simulations](https://github.com/stanford-ssi/sequoia-simulation)** (private submodule)
 
 **[Structures](https://github.com/stanford-ssi/sequoia-structures)** (private)
 
